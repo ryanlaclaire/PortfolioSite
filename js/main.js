@@ -617,6 +617,7 @@
 
     /*----------- Contact -----------*/
 
+    /*
     $('.contact-form').on('submit', function(event) {
       var form = $(this);
       var submitBtn = form.find('#contact-submit');
@@ -658,6 +659,7 @@
             }
           });
       }, 1000);
+      */
     });
 
   });
